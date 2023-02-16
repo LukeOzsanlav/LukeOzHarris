@@ -10,6 +10,13 @@ website:
         text: Home
       - about.qmd
       - Publications.qmd
+    right:
+      - icon: github
+        href: https://github.com/LukeOzsanlav
+      - icon: twitter
+        href: https://twitter.com
+        
+        
 
 format:
   html:
