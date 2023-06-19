@@ -1,5 +1,24 @@
 ---
 title: "Publications"
+bibliography: references.bib
+csl: apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
 ---
 
-List of my scientific publications
+## 2023
+
+***preprint:*** [@ozsanlav-harris2023a]
+
+***preprint:*** [@ozsanlav-harris2023]
+
+***preprint:*** [@langley2023]
+
+[@mcintosh2023]
+
+[@trissi2023]
+
+## 2022
+
+[@ozsanlav-harris2022]

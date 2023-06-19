@@ -4,20 +4,27 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I carried out a PhD at the University of Exeter to understand the decline of migratory waterfowl using biologging technology. You can find out more about this work from the University of Exeter here and the Wildfowl and Wetlands Trust here.\nI am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants Phasianus colchicus from both a game management perspective and to limit dispersal into protected areas."
+    "text": "Ornithology 🦢\nAnimal Movement 🐾\nStatistical modelling 📊"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Luke Ozsanlav-Harris",
-    "section": "",
-    "text": "This is my test website.\nHi, Rhianna Mary Hughes. I love you ❤️\n\n1 + 1\n\n[1] 2"
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About Me",
+    "section": "About me 👨‍🔬",
+    "text": "About me 👨‍🔬\n\nPhD Research\nI carried out a PhD at the University of Exeter to understand the decline of migratory waterfowl using biologging technology. You can find out more about this work from the University of Exeter here and the Wildfowl and Wetlands Trust here.\n\n\n\nGreenland White-fronted Goose\n\n\n\n\nPostdoctoral Research\nI am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants Phasianus colchicus from both a game management perspective and to limit dispersal into protected areas.\n\n\nLinks\nClick here to view my ResearchGate profile\nClickhere for my Google Scholar profile"
   },
   {
     "objectID": "Publications.html",
     "href": "Publications.html",
     "title": "Publications",
     "section": "",
-    "text": "List of my scientific publications"
+    "text": "preprint: Ozsanlav-Harris, L., Phillips, R., Bailey, J., Langley, L., Wilson, K., Inger, R., & Bearhop, S. (2023). Exploring the origins of vagrant yellow-browed warblers in western europe. http://dx.doi.org/10.22541/au.167832183.32508222/v1\npreprint: Ozsanlav-Harris, L., Hilton, G., Griffin, L., Walsh, A., Cao, L., Weegman, M., & Bearhop, S. (2023). Differing drivers of decline within a metapopulation has implications for future conservation. http://dx.doi.org/10.22541/au.167335765.56374213/v1\npreprint: Langley, L. P., Lang, S., Ozsanlav-Harris, L., & Trevail, A. (2023). ExMove: An open-source toolkit for processing and exploring animal tracking data in r. http://dx.doi.org/10.1101/2023.05.16.540922\nMcIntosh, A. L. S., Ozsanlav-Harris, L., Taggart, M. A., Shaw, J. M., Hilton, G. M., & Bearhop, S. (2023). Incidence of lead ingestion in managed goose populations and the efficacy of imposed restrictions on the use of lead shot. Ibis. https://doi.org/10.1111/ibi.13210\nTrissi, N., Troczka, B. J., Ozsanlav-Harris, L., Singh, K. S., Mallott, M., Aishwarya, V., O’Reilly, A., Bass, C., & Wilding, C. S. (2023). Differential regulation of the Tor gene homolog drives the red/green pigmentation phenotype in the aphid Myzus persicae. Insect Biochemistry and Molecular Biology, 153, 103896. https://doi.org/10.1016/j.ibmb.2022.103896"
+  },
+  {
+    "objectID": "Publications.html#section-1",
+    "href": "Publications.html#section-1",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\nOzsanlav-Harris, L., Griin, L., Weegman, M. D., Cao, L., Hilton, G. M., & Bearhop, S. (2022). Wearable reproductive trackers: Quantifying a key life history. Animal Biotelemetry, 10(24), 1–15. https://doi.org/10.1186/s40317-022-00298-8"
   }
 ]

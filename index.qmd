@@ -1,11 +1,9 @@
 ---
-title: "Luke Ozsanlav-Harris"
+image: images/453a3cd6-35e1-4b58-a9b0-85d4cc7c5b93.JPG
+about:
+  template: trestles
+  image-shape: round
 ---
 
-This is my test website.
+## Hi, I'm Luke
 
-Hi, Rhianna Mary Hughes. I love you ❤️
-
-```{r}
-1 + 1
-```
