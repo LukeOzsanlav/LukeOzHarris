@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Publications.qmd
+      - href: about.qmd
+      - href: Publications.qmd
     right:
       - icon: github
         href: https://github.com/LukeOzsanlav
