@@ -11,14 +11,24 @@ citations-hover: false
 
 ***preprint:*** [@ozsanlav-harris2023a]
 
+[Code](https://github.com/LukeOzsanlav/YBW_Vagrancy)
+
 ***preprint:*** [@ozsanlav-harris2023]
+
+[Code](https://github.com/LukeOzsanlav/GWfGMetapopDemography)
 
 ***preprint:*** [@langley2023]
 
+[Code](https://github.com/ExMove/ExMove)
+
 [@mcintosh2023]
+
+[Code](https://github.com/LukeOzsanlav/Islay_LeadGeese)
 
 [@trissi2023]
 
 ## 2022
 
 [@ozsanlav-harris2022]
+
+[Code](https://github.com/LukeOzsanlav/AnimalBioMethods)
