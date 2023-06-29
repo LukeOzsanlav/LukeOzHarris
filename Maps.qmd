@@ -1,0 +1,25 @@
+---
+title: "Maps"
+---
+
+I enjoy making maps as part of my research, here is a selection of my favorites from various papers
+
+### GPS Tracking Data Map of Four Species
+
+![](images/Maps/Figure_6_annotated.png){fig-align="center" width="577"}
+
+### Yellow-browed Warbler Vagrancy
+
+![](images/Maps/YBW_vag_SplitPlot2.png){fig-align="center" width="606"}
+
+### Chiffchaff and Yellow-browed Warbler Range Map
+
+![](images/Maps/Range_map_Nobathy.png){fig-align="center" width="714"}
+
+### Manx Shearwater Survey Data on the Isle of Rum
+
+![](images/Maps/Density%20plots%20and%20NDVI%20map.png){fig-align="center" width="653"}
+
+### Map of Islay Ramsar sites and Barnacle Goose roosts
+
+![](images/Maps/Figure1_IslayMap.png){fig-align="center" width="667"}

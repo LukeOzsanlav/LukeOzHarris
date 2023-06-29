@@ -1,17 +1,66 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
     "section": "",
-    "text": "Ornithology 🦢\nAnimal Movement 🐾\nStatistical modelling 📊"
+    "text": "Data: Statistical Modelling | Spatial Data Analysis | Biologging Data | R | Shiny | QGIS | GitHub\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration"
   },
   {
-    "objectID": "about.html#my-broad-interests",
-    "href": "about.html#my-broad-interests",
-    "title": "About Me",
+    "objectID": "CV.html#skills-summary",
+    "href": "CV.html#skills-summary",
+    "title": "CV",
     "section": "",
-    "text": "Ornithology 🦢\nAnimal Movement 🐾\nStatistical modelling 📊"
+    "text": "Data: Statistical Modelling | Spatial Data Analysis | Biologging Data | R | Shiny | QGIS | GitHub\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPhD Biological Sciences, University of Exeter, 2019-2022 (Corrections accepted: Jan 2023)\nDissertation: Understanding the decline of a long-distance migratory bird, The Greenland White-fronted Goose; Supervisors: Prof Stuart Bearhop & Dr Geoff Hilton\nMSc Applied Ecology, University of Exeter, 2017-18 (Distinction)\nDissertation: Understating the genetic basis of colour polymorphism in the green peach aphid Myzus persicae\nBSc Natural Sciences, University of Durham, 2014-2017 (2:1)"
+  },
+  {
+    "objectID": "CV.html#employment",
+    "href": "CV.html#employment",
+    "title": "CV",
+    "section": "Employment",
+    "text": "Employment\n2021: MarPAMM funded project, Isle of Rum Manx Shearwater census (Lead spatial analyst and fieldworker, May-June 2021)\n\nLed spatial analysis for the final population estimate; manipulated Sentinel images and digital elevation models to build a predictive spatially explicit model that calculated burrow nesting bird density over the entire colony.\nSurveyed the Manx shearwater colony, carrying out habitat and burrow occupancy surveys.\n\n2022: JNCC Consultancy, Review of avoidance rates for collision risk modelling of seabirds (Analyst and report lead author, Jan-Feb 2022.)\n\nReview of available literature that measured seabird collisions with turbines.\nRecalculation of avoidance rates in R and sensivity analysis to test the effect of various input parameters.\nUpdated avoidance rates were included in a technical report and results explained to marine scientist and windfarm industry stakeholders.\n\n2022/23: Research Officer, Wildfowl and Wetland Trust (October 2022 – To Date) - Publish work carried out during my PhD in scientific journals.\n- Manage and curate waterfowl tracking data sets, including upload to Movebank. - Write guide to help researchers with the processing and visualisation of animal tracking data in R."
+  },
+  {
+    "objectID": "CV.html#research-skills",
+    "href": "CV.html#research-skills",
+    "title": "CV",
+    "section": "Research skills",
+    "text": "Research skills\nData Analysis - Curating large animal tracking database (&gt;250 million data points), including integration with Movebank. - Download, manipulation and analysis of remote sensing data, e.g. MODIS, Sentinel, ECMFW and NCEP. - Analysing animal movement data, e.g. Hidden Markov models, change point analysis, continuous time movement modelling and habitat selection analysis (RSFs & iSSFs). - Statistical analysis including; generalized mixed effects models incorporating spatial/temporal autocorrelation and time to event/survival modelling. - Machine learning analysis, e.g. classifying accelerometer data using random forests. o Spatial data manipulation and analysis in QGIS and R (using sf package).\nFieldwork - Assisted with the capture of large birds and the deployment of tracking devices on waterfowl and seabirds. - Organised logistics for teams to catch birds and deploy biologging devices. - Fieldwork in remote and challenging environment, e.g. surveys on Isle of Rum and Borneo.\nCollaboration - Carrying out research with multiple partners, e.g. Wildfowl and wetlands trust, JNCC, BTO & Nature Scot. - Engagement with local stakeholders, particularly rural farmers on Islay, Scotland while researching contentious goose management cull"
+  },
+  {
+    "objectID": "CV.html#scientific-communication",
+    "href": "CV.html#scientific-communication",
+    "title": "CV",
+    "section": "Scientific Communication",
+    "text": "Scientific Communication\nGoose News: magazine-style article on the research carried out during my PhD research to a broader non-academic audience.\nFunding partner blog posts: multiple blog posts for a funding partner website (Glengoyne distillery), conveying the findings of my research to their customers, example here."
+  },
+  {
+    "objectID": "CV.html#training",
+    "href": "CV.html#training",
+    "title": "CV",
+    "section": "Training",
+    "text": "Training\nShort course on analysing animal tracking data: exploring movement characteristics, resource selection functions, integrated step selection functions, integrating environmental data.\nR shiny course: Building R shiny apps, made app to fit Hidden Markov models to tracking data.\nStatistical analysis with R: data manipulation, data visualisation, linear regression, generalised linear models, mixed effects models."
+  },
+  {
+    "objectID": "CV.html#conferencespresentations",
+    "href": "CV.html#conferencespresentations",
+    "title": "CV",
+    "section": "Conferences/Presentations",
+    "text": "Conferences/Presentations\n\nDiffering drivers of decline within a metapopulation has implications for future conservation. University of Lund. October 22. (Invited seminar talk)\nRemotely understanding population decline in a high-arctic nesting goose. University of Exeter, Centre for Ecology and Conservation symposium. March 2021. (Talk)\nDiffering demographic drivers of low reproductive success within a high artic migrant meta-population. BOU avian reproduction conference. April 2022. (Poster)\nAttended online conferences: BOU birds and people, 2021 & International biologging symposium, 2021"
+  },
+  {
+    "objectID": "CV.html#teaching",
+    "href": "CV.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\nRewilding field course, Scotland (teaching and logistics): Teaching assistant on MSc field course organising logistics and gave talks to student on my PhD research.\nApplications of biologging data (undergraduate practical): Designed material and delivered an undergraduate practical to demonstrate the potential applications of biologging data. Built shiny app that allows users to explore cleaning/preparation of tracking data for analysis."
   },
   {
     "objectID": "index.html",
@@ -28,25 +77,39 @@
     "text": "I am an ecologist that is broadly interested in ornithology, animal movement and applied ecological research.\nCurrently I am a postdoctoral research associate at the University of Exeter investigating the movement of released gamebirds in the UK\nI enjoy looking for birds in my local area and further afield, you can see my latest pictures and species I’ve seen on my eBird profile"
   },
   {
+    "objectID": "Maps.html",
+    "href": "Maps.html",
+    "title": "Maps",
+    "section": "",
+    "text": "I enjoy making maps as part of my research, here is a selection of my favorites from various papers\n\nGPS Tracking Data Map of Four Species\n\n\n\n\n\n\n\nYellow-browed Warbler Vagrancy\n\n\n\n\n\n\n\nChiffchaff and Yellow-browed Warbler Range Map\n\n\n\n\n\n\n\nManx Shearwater Survey Data on the Isle of Rum\n\n\n\n\n\n\n\nMap of Islay Ramsar sites and Barnacle Goose roosts"
+  },
+  {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants Phasianus colchicus from both a game management perspective and to limit dispersal into protected areas. I am using GPS tracking data and radio tracking data to build individual-based models that predict the movement of released pheasant pheasants from any point in the UK."
+    "text": "Ornithology 🦢\nAnimal Movement 🐾\nStatistical modelling 📊"
+  },
+  {
+    "objectID": "Projects.html#my-broad-interests",
+    "href": "Projects.html#my-broad-interests",
+    "title": "Projects",
+    "section": "",
+    "text": "Ornithology 🦢\nAnimal Movement 🐾\nStatistical modelling 📊"
   },
   {
     "objectID": "Projects.html#released-gambird-dispseral-in-the-uk-postdoctoral-research",
     "href": "Projects.html#released-gambird-dispseral-in-the-uk-postdoctoral-research",
     "title": "Projects",
-    "section": "",
-    "text": "I am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants Phasianus colchicus from both a game management perspective and to limit dispersal into protected areas. I am using GPS tracking data and radio tracking data to build individual-based models that predict the movement of released pheasant pheasants from any point in the UK."
+    "section": "Released Gambird Dispseral in the UK (Postdoctoral Research)",
+    "text": "Released Gambird Dispseral in the UK (Postdoctoral Research)\nI am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants Phasianus colchicus from both a game management perspective and to limit dispersal into protected areas. I am using GPS tracking data and radio tracking data to build individual-based models that predict the movement of released pheasant pheasants from any point in the UK."
   },
   {
-    "objectID": "Projects.html#collision-risk-modelling-of-seabird-with-offshore-wind-turbines",
-    "href": "Projects.html#collision-risk-modelling-of-seabird-with-offshore-wind-turbines",
+    "objectID": "Projects.html#collision-risk-modelling-of-seabirds-with-offshore-wind-turbines",
+    "href": "Projects.html#collision-risk-modelling-of-seabirds-with-offshore-wind-turbines",
     "title": "Projects",
-    "section": "Collision Risk Modelling of Seabird with Offshore Wind Turbines",
-    "text": "Collision Risk Modelling of Seabird with Offshore Wind Turbines\nI lead a review of the avoidance rate parameter used in the collision risk modelling of seabirds which is a key part of the consenting process for offshore wind developments. I reviewed and assessed available literature that contained data that could be used to derive estimates of the avoidance rate parameter. Avoidance rates were calculated using this data with two variants of the Band (2012) collision risk model and their stochastic implementations. Estimates were compared to previous industry standards in (Cook 2021) and we found increases in the avoidance rates for the following species groupings: all gulls, large gulls, and all gulls & terns. A link to the report and supporting materials can be found here. This work should be cited as: Ozsanlav-Harris, L., Inger, R. & Sherley, R. 2023. Review of data used to calculate avoidance rates for collision risk modelling of seabirds. JNCC Report 732, JNCC, Peterborough, ISSN 0963-8091."
+    "section": "Collision Risk Modelling of Seabirds with Offshore Wind Turbines",
+    "text": "Collision Risk Modelling of Seabirds with Offshore Wind Turbines\nI lead a review of the avoidance rate parameter used in the collision risk modelling of seabirds which is a key part of the consenting process for offshore wind developments. I reviewed and assessed available literature that contained data that could be used to derive estimates of the avoidance rate parameter. Avoidance rates were calculated using this data with two variants of the Band (2012) collision risk model and their stochastic implementations. Estimates were compared to previous industry standards in (Cook 2021) and we found increases in the avoidance rates for the following species groupings: all gulls, large gulls, and all gulls & terns. A link to the report and supporting materials can be found here. This work should be cited as: Ozsanlav-Harris, L., Inger, R. & Sherley, R. 2023. Review of data used to calculate avoidance rates for collision risk modelling of seabirds. JNCC Report 732, JNCC, Peterborough, ISSN 0963-8091."
   },
   {
     "objectID": "Projects.html#diagnosing-the-decline-of-greenland-white-fronted-geese-phd-research",
