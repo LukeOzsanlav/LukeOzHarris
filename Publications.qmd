@@ -14,14 +14,15 @@ citations-hover: false
 [Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) 
 <br/><br/>
 
-***preprint:*** [@ozsanlav-harris2023]
-
-[Link to Code](https://github.com/LukeOzsanlav/GWfGMetapopDemography) 
-<br/><br/>
 
 ***preprint:*** [@langley2023]
 
 [Link to Code](https://github.com/ExMove/ExMove) 
+<br/><br/>
+
+***in press:*** [@ozsanlav-harris2023]
+
+[Link to Code](https://github.com/LukeOzsanlav/GWfGMetapopDemography) 
 <br/><br/>
 
 [@mcintosh2023a]

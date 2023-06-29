@@ -65,16 +65,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Luke Ozsanlav-Harris",
+    "title": "Hi, I’m Luke",
     "section": "",
-    "text": "I am an ecologist that is broadly interested in ornithology, animal movement and applied ecological research.\nCurrently I am a postdoctoral research associate at the University of Exeter investigating the movement of released gamebirds in the UK\nI enjoy looking for birds in my local area and further afield, you can see my latest pictures and species I’ve seen on my eBird profile"
-  },
-  {
-    "objectID": "index.html#hi-im-luke",
-    "href": "index.html#hi-im-luke",
-    "title": "Luke Ozsanlav-Harris",
-    "section": "",
-    "text": "I am an ecologist that is broadly interested in ornithology, animal movement and applied ecological research.\nCurrently I am a postdoctoral research associate at the University of Exeter investigating the movement of released gamebirds in the UK\nI enjoy looking for birds in my local area and further afield, you can see my latest pictures and species I’ve seen on my eBird profile"
+    "text": "Hi, I’m Luke\nI am an ecologist that is broadly interested in ornithology, animal movement and applied ecological research.\nCurrently I am a postdoctoral research associate at the University of Exeter investigating the movement of released gamebirds in the UK\nI enjoy looking for birds in my local area and further afield, you can see my latest pictures and species I’ve seen on my eBird profile"
   },
   {
     "objectID": "Maps.html",
@@ -98,39 +91,46 @@
     "text": "Ornithology 🦢\nAnimal Movement 🐾\nStatistical modelling 📊"
   },
   {
-    "objectID": "Projects.html#released-gambird-dispseral-in-the-uk-postdoctoral-research",
-    "href": "Projects.html#released-gambird-dispseral-in-the-uk-postdoctoral-research",
+    "objectID": "Projects.html#released-gambird-dispseral-in-the-uk",
+    "href": "Projects.html#released-gambird-dispseral-in-the-uk",
     "title": "Projects",
-    "section": "Released Gambird Dispseral in the UK (Postdoctoral Research)",
-    "text": "Released Gambird Dispseral in the UK (Postdoctoral Research)\nI am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants Phasianus colchicus from both a game management perspective and to limit dispersal into protected areas. I am using GPS tracking data and radio tracking data to build individual-based models that predict the movement of released pheasant pheasants from any point in the UK."
+    "section": "Released Gambird Dispseral in the UK",
+    "text": "Released Gambird Dispseral in the UK\n\nPostdoctoral Research: University of Exeter\nI am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants Phasianus colchicus from both a game management perspective and to limit dispersal into protected areas. I am using GPS tracking data and radio tracking data to build individual-based models that predict the movement of released pheasant pheasants from any point in the UK."
+  },
+  {
+    "objectID": "Projects.html#analysing-animal-movement-data",
+    "href": "Projects.html#analysing-animal-movement-data",
+    "title": "Projects",
+    "section": "Analysing Animal Movement data",
+    "text": "Analysing Animal Movement data\n\nExMove: Univeristy of Exeter\nAlongside other postdoctoral researchers created a toolkit for processing biologging data from tag downloads to online archiving in online data base. The code is open-access and serves as a both a self-teaching guide for both new and more advanced users. The code is available from a GitHub repository here. I also built a shiny app that allows users to explore their data using a user friendly GUI, this can be accessed only here."
   },
   {
     "objectID": "Projects.html#collision-risk-modelling-of-seabirds-with-offshore-wind-turbines",
     "href": "Projects.html#collision-risk-modelling-of-seabirds-with-offshore-wind-turbines",
     "title": "Projects",
     "section": "Collision Risk Modelling of Seabirds with Offshore Wind Turbines",
-    "text": "Collision Risk Modelling of Seabirds with Offshore Wind Turbines\nI lead a review of the avoidance rate parameter used in the collision risk modelling of seabirds which is a key part of the consenting process for offshore wind developments. I reviewed and assessed available literature that contained data that could be used to derive estimates of the avoidance rate parameter. Avoidance rates were calculated using this data with two variants of the Band (2012) collision risk model and their stochastic implementations. Estimates were compared to previous industry standards in (Cook 2021) and we found increases in the avoidance rates for the following species groupings: all gulls, large gulls, and all gulls & terns. A link to the report and supporting materials can be found here. This work should be cited as: Ozsanlav-Harris, L., Inger, R. & Sherley, R. 2023. Review of data used to calculate avoidance rates for collision risk modelling of seabirds. JNCC Report 732, JNCC, Peterborough, ISSN 0963-8091."
+    "text": "Collision Risk Modelling of Seabirds with Offshore Wind Turbines\n\nContracted Work: JNCC\nI lead a review of the avoidance rate parameter used in the collision risk modelling of seabirds which is a key part of the consenting process for offshore wind developments. I reviewed and assessed available literature that contained data that could be used to derive estimates of the avoidance rate parameter. Avoidance rates were calculated using this data with two variants of the Band (2012) collision risk model and their stochastic implementations. Estimates were compared to previous industry standards in (Cook 2021) and we found increases in the avoidance rates for the following species groupings: all gulls, large gulls, and all gulls & terns. A link to the report and supporting materials can be found here. This work should be cited as: Ozsanlav-Harris, L., Inger, R. & Sherley, R. 2023. Review of data used to calculate avoidance rates for collision risk modelling of seabirds. JNCC Report 732, JNCC, Peterborough, ISSN 0963-8091."
   },
   {
-    "objectID": "Projects.html#diagnosing-the-decline-of-greenland-white-fronted-geese-phd-research",
-    "href": "Projects.html#diagnosing-the-decline-of-greenland-white-fronted-geese-phd-research",
+    "objectID": "Projects.html#diagnosing-the-decline-of-greenland-white-fronted-geese",
+    "href": "Projects.html#diagnosing-the-decline-of-greenland-white-fronted-geese",
     "title": "Projects",
-    "section": "Diagnosing the decline of Greenland-White-fronted Geese (PhD Research)",
-    "text": "Diagnosing the decline of Greenland-White-fronted Geese (PhD Research)\nI carried out a PhD at the University of Exeter to understand the decline of a migratory waterfowl species, the Greenland White-fronted Goose Anser albifrons flavirostris. I investigated different factors that could be contributing to population decline. This included lead poisoning and shooting disturbance on Islay, Scotland from shooting of the Barnacle Goose population on the island. I also investigated how changes to the climate in the Western Greenland breeding grounds could be causing low breeding success across the population. To fully investigate this we deployed biologging devices across the wintering range and remotely examined breeding using remote sensing data and biologging data to remotely classify breeding events. You can find out more about this work from the Wildfowl and Wetlands Trust here.\n\n\n\nGreenland White-fronted Goose\n\n\n\nLinks to my research 🔗\nClick here to view my ResearchGate profile\nClick here for my Google Scholar profile"
+    "section": "Diagnosing the decline of Greenland-White-fronted Geese",
+    "text": "Diagnosing the decline of Greenland-White-fronted Geese\n\nPhD Research: Univeristy of Exeter\nI carried out a PhD at the University of Exeter to understand the decline of a migratory waterfowl species, the Greenland White-fronted Goose Anser albifrons flavirostris. I investigated different factors that could be contributing to population decline. This included lead poisoning and shooting disturbance on Islay, Scotland from shooting of the Barnacle Goose population on the island. I also investigated how changes to the climate in the Western Greenland breeding grounds could be causing low breeding success across the population. To fully investigate this we deployed biologging devices across the wintering range and remotely examined breeding using remote sensing data and biologging data to remotely classify breeding events. You can find out more about this work from the Wildfowl and Wetlands Trust here.\n\n\n\nGreenland White-fronted Goose\n\n\n\n\nLinks to my research 🔗\nClick here to view my ResearchGate profile\nClick here for my Google Scholar profile"
   },
   {
     "objectID": "Publications.html",
     "href": "Publications.html",
     "title": "Publications",
     "section": "",
-    "text": "preprint: Ozsanlav-Harris, L., Phillips, R., Bailey, J., Langley, L., Wilson, K., Inger, R., & Bearhop, S. (2023). Exploring the origins of vagrant yellow-browed warblers in western europe. http://dx.doi.org/10.22541/au.167832183.32508222/v1\nLink to Code \npreprint: Ozsanlav-Harris, L., Hilton, G., Griffin, L., Walsh, A., Cao, L., Weegman, M., & Bearhop, S. (2023). Differing drivers of decline within a metapopulation has implications for future conservation. http://dx.doi.org/10.22541/au.167335765.56374213/v1\nLink to Code \npreprint: Langley, L. P., Lang, S., Ozsanlav-Harris, L., & Trevail, A. (2023). ExMove: An open-source toolkit for processing and exploring animal tracking data in r. http://dx.doi.org/10.1101/2023.05.16.540922\nLink to Code \nMcIntosh, A. L. S., Ozsanlav-Harris, L., Taggart, M. A., Shaw, J. M., Hilton, G. M., & Bearhop, S. (2023). Incidence of lead ingestion in managed goose populations and the efficacy of imposed restrictions on the use of lead shot. Ibis. https://doi.org/10.1111/ibi.13210\nLink to Code \nTrissi, N., Troczka, B. J., Ozsanlav-Harris, L., Singh, K. S., Mallott, M., Aishwarya, V., O’Reilly, A., Bass, C., & Wilding, C. S. (2023). Differential regulation of the Tor gene homolog drives the red/green pigmentation phenotype in the aphid Myzus persicae. Insect Biochemistry and Molecular Biology, 153, 103896. https://doi.org/10.1016/j.ibmb.2022.103896"
+    "text": "preprint: Ozsanlav-Harris, L., Phillips, R., Bailey, J., Langley, L., Wilson, K., Inger, R., & Bearhop, S. (2023). Exploring the origins of vagrant yellow-browed warblers in western europe. http://dx.doi.org/10.22541/au.167832183.32508222/v1\nLink to Code \npreprint: Langley, L. P., Lang, S., Ozsanlav-Harris, L., & Trevail, A. (2023). ExMove: An open-source toolkit for processing and exploring animal tracking data in r. http://dx.doi.org/10.1101/2023.05.16.540922\nLink to Code \nin press: Ozsanlav-Harris, L., Hilton, G., Griffin, L., Walsh, A., Cao, L., Weegman, M., & Bearhop, S. (2023). Differing drivers of decline within a metapopulation has implications for future conservation. http://dx.doi.org/10.22541/au.167335765.56374213/v1\nLink to Code \nMcIntosh, A. L. S., Ozsanlav-Harris, L., Taggart, M. A., Shaw, J. M., Hilton, G. M., & Bearhop, S. (2023). Incidence of lead ingestion in managed goose populations and the efficacy of imposed restrictions on the use of lead shot. Ibis. https://doi.org/10.1111/ibi.13210\nLink to Code \nTrissi, N., Troczka, B. J., Ozsanlav-Harris, L., Singh, K. S., Mallott, M., Aishwarya, V., O’Reilly, A., Bass, C., & Wilding, C. S. (2023). Differential regulation of the Tor gene homolog drives the red/green pigmentation phenotype in the aphid Myzus persicae. Insect Biochemistry and Molecular Biology, 153, 103896. https://doi.org/10.1016/j.ibmb.2022.103896"
   },
   {
     "objectID": "Publications.html#section",
     "href": "Publications.html#section",
     "title": "Publications",
     "section": "",
-    "text": "preprint: Ozsanlav-Harris, L., Phillips, R., Bailey, J., Langley, L., Wilson, K., Inger, R., & Bearhop, S. (2023). Exploring the origins of vagrant yellow-browed warblers in western europe. http://dx.doi.org/10.22541/au.167832183.32508222/v1\nLink to Code \npreprint: Ozsanlav-Harris, L., Hilton, G., Griffin, L., Walsh, A., Cao, L., Weegman, M., & Bearhop, S. (2023). Differing drivers of decline within a metapopulation has implications for future conservation. http://dx.doi.org/10.22541/au.167335765.56374213/v1\nLink to Code \npreprint: Langley, L. P., Lang, S., Ozsanlav-Harris, L., & Trevail, A. (2023). ExMove: An open-source toolkit for processing and exploring animal tracking data in r. http://dx.doi.org/10.1101/2023.05.16.540922\nLink to Code \nMcIntosh, A. L. S., Ozsanlav-Harris, L., Taggart, M. A., Shaw, J. M., Hilton, G. M., & Bearhop, S. (2023). Incidence of lead ingestion in managed goose populations and the efficacy of imposed restrictions on the use of lead shot. Ibis. https://doi.org/10.1111/ibi.13210\nLink to Code \nTrissi, N., Troczka, B. J., Ozsanlav-Harris, L., Singh, K. S., Mallott, M., Aishwarya, V., O’Reilly, A., Bass, C., & Wilding, C. S. (2023). Differential regulation of the Tor gene homolog drives the red/green pigmentation phenotype in the aphid Myzus persicae. Insect Biochemistry and Molecular Biology, 153, 103896. https://doi.org/10.1016/j.ibmb.2022.103896"
+    "text": "preprint: Ozsanlav-Harris, L., Phillips, R., Bailey, J., Langley, L., Wilson, K., Inger, R., & Bearhop, S. (2023). Exploring the origins of vagrant yellow-browed warblers in western europe. http://dx.doi.org/10.22541/au.167832183.32508222/v1\nLink to Code \npreprint: Langley, L. P., Lang, S., Ozsanlav-Harris, L., & Trevail, A. (2023). ExMove: An open-source toolkit for processing and exploring animal tracking data in r. http://dx.doi.org/10.1101/2023.05.16.540922\nLink to Code \nin press: Ozsanlav-Harris, L., Hilton, G., Griffin, L., Walsh, A., Cao, L., Weegman, M., & Bearhop, S. (2023). Differing drivers of decline within a metapopulation has implications for future conservation. http://dx.doi.org/10.22541/au.167335765.56374213/v1\nLink to Code \nMcIntosh, A. L. S., Ozsanlav-Harris, L., Taggart, M. A., Shaw, J. M., Hilton, G. M., & Bearhop, S. (2023). Incidence of lead ingestion in managed goose populations and the efficacy of imposed restrictions on the use of lead shot. Ibis. https://doi.org/10.1111/ibi.13210\nLink to Code \nTrissi, N., Troczka, B. J., Ozsanlav-Harris, L., Singh, K. S., Mallott, M., Aishwarya, V., O’Reilly, A., Bass, C., & Wilding, C. S. (2023). Differential regulation of the Tor gene homolog drives the red/green pigmentation phenotype in the aphid Myzus persicae. Insect Biochemistry and Molecular Biology, 153, 103896. https://doi.org/10.1016/j.ibmb.2022.103896"
   },
   {
     "objectID": "Publications.html#section-1",

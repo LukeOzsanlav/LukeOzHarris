@@ -5,7 +5,7 @@ about:
   image-shape: round
 ---
 
-## Hi, I'm Luke
+# Hi, I'm Luke
 
 I am an ecologist that is broadly interested in ornithology, animal movement and applied ecological research.
 
