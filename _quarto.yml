@@ -9,12 +9,19 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
+      - href: Projects.qmd
       - href: Publications.qmd
+      - href: CV.qmd
     right:
       - icon: github
         href: https://github.com/LukeOzsanlav
+      - icon: google
+        href: https://scholar.google.com/citations?user=9VyBol4AAAAJ&hl=en
       - icon: twitter
         href: https://twitter.com/Luke_ozharris
+      - icon: envelope
+        aria-label: email
+        href: "mailto:lo288@exeter.ac.uk"
         
         
 

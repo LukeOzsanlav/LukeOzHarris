@@ -1,0 +1,34 @@
+---
+title: "Projects"
+---
+
+## Released Gambird Dispseral in the UK (Postdoctoral Research)
+
+I am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants *Phasianus colchicus* from both a game management perspective and to limit dispersal into protected areas. I am using GPS tracking data and radio tracking data to build individual-based models that predict the movement of released pheasant pheasants from any point in the UK.
+
+
+## Collision Risk Modelling of Seabird with Offshore Wind Turbines
+
+I lead a review of the avoidance rate parameter used in the collision risk modelling of seabirds which is a key part of the consenting process for offshore wind developments. I reviewed and assessed available literature that contained data that could be used to derive estimates of the avoidance rate parameter. Avoidance rates were calculated using this data with two variants of the Band (2012) collision risk model and their stochastic implementations. Estimates were compared to previous industry standards in (Cook 2021) and we found increases in the avoidance rates for the following species groupings: all gulls, large gulls, and all gulls & terns. A link to the report and supporting materials can be found [here.](https://hub.jncc.gov.uk/assets/de5903fe-81c5-4a37-a5bc-387cf704924d)
+This work should be cited as: Ozsanlav-Harris, L., Inger, R. & Sherley, R. 2023. Review of data used to calculate avoidance rates for collision risk modelling of seabirds. JNCC Report 732, JNCC, Peterborough, ISSN 0963-8091.  
+
+
+## Diagnosing the decline of Greenland-White-fronted Geese (PhD Research)
+
+I carried out a PhD at the University of Exeter to understand the decline of a migratory waterfowl species, the Greenland White-fronted Goose *Anser albifrons flavirostris*. I investigated different factors that could be contributing to population decline. This included lead poisoning and shooting disturbance on Islay, Scotland from shooting of the Barnacle Goose population on the island. I also investigated how changes to the climate in the Western Greenland breeding grounds could be causing low breeding success across the population. To fully investigate this we deployed biologging devices across the wintering range and remotely examined breeding using remote sensing data and biologging data to remotely classify breeding events. You can find out more about this work from the Wildfowl and Wetlands Trust [here](https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/luke-ozsanlav-harris/).
+
+![Greenland White-fronted Goose](images/GWF_image.png){fig-align="center" width="221"}
+
+
+### Links to my research 🔗
+
+Click [here](https://www.researchgate.net/profile/Luke-Ozsanlav-Harris) to view my ResearchGate profile
+
+Click [here](https://scholar.google.co.uk/citations?user=9VyBol4AAAAJ&hl=en) for my Google Scholar profile
+
+
+
+
+
+
+
