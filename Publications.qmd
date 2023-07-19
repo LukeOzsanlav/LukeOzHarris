@@ -11,24 +11,19 @@ citations-hover: false
 
 ***preprint:*** [@ozsanlav-harris2023a]
 
-[Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) 
-<br/><br/>
-
+[Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) <br/><br/>
 
 ***preprint:*** [@langley2023]
 
-[Link to Code](https://github.com/ExMove/ExMove) 
-<br/><br/>
+[Link to Code](https://github.com/ExMove/ExMove) <br/><br/>
 
-***in press:*** [@ozsanlav-harris2023]
+[@ozsanlav-harris2023b]
 
-[Link to Code](https://github.com/LukeOzsanlav/GWfGMetapopDemography) 
-<br/><br/>
+[Link to Code](https://github.com/LukeOzsanlav/GWfGMetapopDemography) <br/><br/>
 
-[@mcintosh2023a]
+[@mcintosh2023b]
 
-[Link to Code](https://github.com/LukeOzsanlav/Islay_LeadGeese) 
-<br/><br/>
+[Link to Code](https://github.com/LukeOzsanlav/Islay_LeadGeese) <br/><br/>
 
 [@trissi2023]
 
