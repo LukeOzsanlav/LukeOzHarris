@@ -1,5 +1,8 @@
 # Luke Ozsanlav-Harris: Personal Website
 
+My website can be found at this link: https://lukeozsanlav.github.io/LukeOzHarris/
+
+
 ### Reminders on how to render website
 
 -   Open project locally in R studio and edit the quarto files accordingly
