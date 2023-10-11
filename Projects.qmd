@@ -2,23 +2,27 @@
 title: "Projects"
 ---
 
-## My Broad Interests
+## Links to my research 🔗
 
-Ornithology 🦢
+Click [here](https://www.researchgate.net/profile/Luke-Ozsanlav-Harris) to view my ResearchGate profile
 
-Animal Movement 🐾
+Click [here](https://scholar.google.co.uk/citations?user=9VyBol4AAAAJ&hl=en) for my Google Scholar profile
 
-Statistical modelling 📊
+## Future conservation scenarios for lowland breeding waders in England
+
+#### Conservation Scientist: RSPB 🥚🐣
+
+Wading birds breeding on lowland wet grassland have declined in recent years, especially Lapwing, Snipe and Curlew. We hope to use breeding abundance data from a nationwide survey to model the field-level and wider landscape-level factors that drive breeding abundance. From this model we hope to predict the impact of proposed future conservation scenarios on breeding wader populations. These scenarios will focus on three key regions with nationally important populations of lowland breeding waders (Somerset Levels, Norfolk Broads and Greater Thames Valley)
 
 ## Released Gambird Dispseral in the UK
 
-#### Postdoctoral Research: University of Exeter
+#### Postdoctoral Research: University of Exeter 🦚 🔫
 
-I am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants *Phasianus colchicus* from both a game management perspective and to limit dispersal into protected areas. I am using GPS tracking data and radio tracking data to build individual-based models that predict the movement of released pheasant pheasants from any point in the UK.
+I investigated the movement and wider dispersal of Common Pheasants *Phasianus colchicus* to help retain birds near shoots and to limit dispersal into protected areas. I used GPS tracking data and radio tracking data to build an individual-based model that simulate the movement of released pheasant from any point in the UK. This allowed assessment of the number of pheasants that would occur in protected area on a temporally dynamic scale.
 
 ## Analysing Animal Movement data
 
-#### ExMove: Univeristy of Exeter
+#### ExMove: Univeristy of Exeter 🐾 📊
 
 Alongside other postdoctoral researchers created a toolkit for processing biologging data from tag downloads to online archiving in online data base. The code is open-access and serves as a both a self-teaching guide for both new and more advanced users. The code is available from a GitHub repository [here](https://github.com/ExMove/ExMove). I also built a shiny app that allows users to explore their data using a user friendly GUI, this can be accessed only [here](https://lukeozsanlav.shinyapps.io/exmove_explorer/).
 
@@ -26,20 +30,14 @@ Alongside other postdoctoral researchers created a toolkit for processing biolog
 
 ## Collision Risk Modelling of Seabirds with Offshore Wind Turbines
 
-#### Contracted Work: JNCC
+#### Contracted Work: JNCC 🌊🌊
 
 I lead a review of the avoidance rate parameter used in the collision risk modelling of seabirds which is a key part of the consenting process for offshore wind developments. I reviewed and assessed available literature that contained data that could be used to derive estimates of the avoidance rate parameter. Avoidance rates were calculated using this data with two variants of the Band (2012) collision risk model and their stochastic implementations. Estimates were compared to previous industry standards in (Cook 2021) and we found increases in the avoidance rates for the following species groupings: all gulls, large gulls, and all gulls & terns. A link to the report and supporting materials can be found [here.](https://hub.jncc.gov.uk/assets/de5903fe-81c5-4a37-a5bc-387cf704924d) This work should be cited as: Ozsanlav-Harris, L., Inger, R. & Sherley, R. 2023. Review of data used to calculate avoidance rates for collision risk modelling of seabirds. JNCC Report 732, JNCC, Peterborough, ISSN 0963-8091.
 
 ## Diagnosing the decline of Greenland-White-fronted Geese
 
-#### PhD Research: Univeristy of Exeter
+#### PhD Research: Univeristy of Exeter 🦆 📉
 
 I carried out a PhD at the University of Exeter to understand the decline of a migratory waterfowl species, the Greenland White-fronted Goose *Anser albifrons flavirostris*. I investigated different factors that could be contributing to population decline. This included lead poisoning and shooting disturbance on Islay, Scotland from shooting of the Barnacle Goose population on the island. I also investigated how changes to the climate in the Western Greenland breeding grounds could be causing low breeding success across the population. To fully investigate this we deployed biologging devices across the wintering range and remotely examined breeding using remote sensing data and biologging data to remotely classify breeding events. You can find out more about this work from the Wildfowl and Wetlands Trust [here](https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/luke-ozsanlav-harris/).
 
 ![Greenland White-fronted Goose](images/GWF_image.png){fig-align="center" width="221"}
-
-### Links to my research 🔗
-
-Click [here](https://www.researchgate.net/profile/Luke-Ozsanlav-Harris) to view my ResearchGate profile
-
-Click [here](https://scholar.google.co.uk/citations?user=9VyBol4AAAAJ&hl=en) for my Google Scholar profile

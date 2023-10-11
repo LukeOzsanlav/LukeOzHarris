@@ -3,19 +3,19 @@ title: "CV"
 github: https://github.com/LukeOzsanlav
 ---
 
-## Skills Summary 
+## Skills Summary
 
-**Data:** Statistical Modelling \| Spatial Data Analysis \| Biologging Data \| R \| Shiny \| QGIS \| GitHub
+**Analysis:** Statistical Modelling \| Spatial Data Analysis \| Biologging Data
+
+**Software:** R \| Shiny \| QGIS \| Git
 
 **Writing:** Scientific \| Technical Reports \| Public Communication
 
 **Interpersonal:** Stakeholder Engagement \| Collaboration
 
-
-
 ## Education
 
-**PhD Biological Sciences, University of Exeter, 2019-2022** (Corrections accepted: Jan 2023)
+**PhD Biological Sciences, University of Exeter, 2019-2023**
 
 Dissertation: Understanding the decline of a long-distance migratory bird, The Greenland White-fronted Goose; Supervisors: Prof Stuart Bearhop & Dr Geoff Hilton
 
@@ -25,9 +25,7 @@ Dissertation: Understating the genetic basis of colour polymorphism in the green
 
 **BSc Natural Sciences, University of Durham, 2014-2017** (2:1)
 
-
-
-## Employment 
+## Employment
 
 **2021: MarPAMM funded project, Isle of Rum Manx Shearwater census** (Lead spatial analyst and fieldworker, May-June 2021)
 
@@ -40,26 +38,30 @@ Dissertation: Understating the genetic basis of colour polymorphism in the green
 -   Recalculation of avoidance rates in R and sensivity analysis to test the effect of various input parameters.
 -   Updated avoidance rates were included in a technical report and results explained to marine scientist and windfarm industry stakeholders.
 
-**2022/23: Research Officer, Wildfowl and Wetland Trust** (October 2022 -- To Date) - Publish work carried out during my PhD in scientific journals.\
+**2022/23: Research Officer, Wildfowl and Wetland Trust** (October 2022 -- April 2023) 
+
+- Publish work carried out during my PhD in scientific journals.
 - Manage and curate waterfowl tracking data sets, including upload to Movebank. - Write guide to help researchers with the processing and visualisation of animal tracking data in R.
-
-
 
 ## Research skills
 
-**Data Analysis**
+**Data Analysis** 
+
 - Curating large animal tracking database (\>250 million data points), including integration with Movebank. 
 - Download, manipulation and analysis of remote sensing data, e.g. MODIS, Sentinel, ECMFW and NCEP. 
 - Analysing animal movement data, e.g. Hidden Markov models, change point analysis, continuous time movement modelling and habitat selection analysis (RSFs & iSSFs). 
 - Statistical analysis including; generalized mixed effects models incorporating spatial/temporal autocorrelation and time to event/survival modelling. 
-- Machine learning analysis, e.g. classifying accelerometer data using random forests. o Spatial data manipulation and analysis in QGIS and R (using sf package). 
+- Machine learning analysis, e.g. classifying accelerometer data using random forests. 
+- Spatial data manipulation and analysis in QGIS and R (using sf package).
 
-**Fieldwork**
+**Fieldwork** 
+
 - Assisted with the capture of large birds and the deployment of tracking devices on waterfowl and seabirds. 
 - Organised logistics for teams to catch birds and deploy biologging devices. 
-- Fieldwork in remote and challenging environment, e.g. surveys on Isle of Rum and Borneo. 
+- Fieldwork in remote and challenging environment, e.g. surveys on Isle of Rum and Borneo.
 
 **Collaboration** 
+
 - Carrying out research with multiple partners, e.g. Wildfowl and wetlands trust, JNCC, BTO & Nature Scot. 
 - Engagement with local stakeholders, particularly rural farmers on Islay, Scotland while researching contentious goose management cull
 
@@ -78,21 +80,18 @@ Dissertation: Understating the genetic basis of colour polymorphism in the green
 
 **Statistical analysis with R:** data manipulation, data visualisation, linear regression, generalised linear models, mixed effects models.
 
-
 ## Conferences/Presentations
 
-- Differing drivers of decline within a metapopulation has implications for future conservation. University of Lund. October 22. (Invited seminar talk)
+-  **Invited seminar talk:** Differing drivers of decline within a metapopulation has implications for future conservation. University of Lund. October 22. 
 
-- Remotely understanding population decline in a high-arctic nesting goose. University of Exeter, Centre for Ecology and Conservation symposium. March 2021. (Talk)
+-  **Talk:** Remotely understanding population decline in a high-arctic nesting goose. University of Exeter, Centre for Ecology and Conservation symposium. March 2021. 
 
--	Differing demographic drivers of low reproductive success within a high artic migrant meta-population. BOU avian reproduction conference. April 2022. (Poster)
+-  **Poster:** Differing demographic drivers of low reproductive success within a high artic migrant meta-population. BOU avian reproduction conference. April 2022. 
 
--	Attended online conferences: BOU birds and people, 2021 & International biologging symposium, 2021
-
+-   Attended online conferences: BOU birds and people, 2021 & International biologging symposium, 2021
 
 ## Teaching
 
 **Rewilding field course, Scotland** (teaching and logistics): Teaching assistant on MSc field course organising logistics and gave talks to student on my PhD research.
 
 **Applications of biologging data** (undergraduate practical): Designed material and delivered an undergraduate practical to demonstrate the potential applications of biologging data. Built shiny app that allows users to explore cleaning/preparation of tracking data for analysis.
-
