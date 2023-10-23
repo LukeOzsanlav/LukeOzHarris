@@ -9,28 +9,20 @@ citations-hover: false
 
 ## 2023
 
-[@ozsanlav-harris2023b]
+[@ozsanlav-harris2023c] <br/><br/>
 
-[Link to Code](https://github.com/LukeOzsanlav/GWfGMetapopDemography) <br/><br/>
+[@ozsanlav-harris2023b] [Link to Code](https://github.com/LukeOzsanlav/GWfGMetapopDemography) <br/><br/>
 
-[@mcintosh2023c]
+[@mcintosh2023c] [Link to Code](https://github.com/LukeOzsanlav/Islay_LeadGeese) <br/><br/>
 
-[Link to Code](https://github.com/LukeOzsanlav/Islay_LeadGeese) <br/><br/>
-
-[@trissi2023]
+[@trissi2023] <br/><br/>
 
 ## 2022
 
-[@ozsanlav-harris2022]
-
-[Link to Code](https://github.com/LukeOzsanlav/AnimalBioMethods)
+[@ozsanlav-harris2022] [Link to Code](https://github.com/LukeOzsanlav/AnimalBioMethods) <br/><br/>
 
 ## Preprints
 
-***preprint:*** [@ozsanlav-harris2023a]
+***preprint:*** [@ozsanlav-harris2023a] [Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) <br/><br/>
 
-[Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) <br/><br/>
-
-***preprint:*** [@langley2023]
-
-[Link to Code](https://github.com/ExMove/ExMove) <br/><br/>
+***preprint:*** [@langley2023] [Link to Code](https://github.com/ExMove/ExMove) <br/><br/>
