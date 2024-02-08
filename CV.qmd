@@ -7,7 +7,7 @@ github: https://github.com/LukeOzsanlav
 
 **Analysis:** Statistical Modelling \| Spatial Data Analysis \| Biologging Data
 
-**Software:** R \| Shiny \| QGIS \| Git
+**Software:** R \| Shiny \| QGIS \| Git \| Google Earth Engine
 
 **Writing:** Scientific \| Technical Reports \| Public Communication
 
@@ -27,10 +27,10 @@ Dissertation: Understating the genetic basis of colour polymorphism in the green
 
 ## Employment
 
-**2021: MarPAMM funded project, Isle of Rum Manx Shearwater census** (Lead spatial analyst and fieldworker, May-June 2021)
+**2022/23: Research Officer, Wildfowl and Wetland Trust** (October 2022 -- April 2023)
 
--   Led spatial analysis for the final population estimate; manipulated Sentinel images and digital elevation models to build a predictive spatially explicit model that calculated burrow nesting bird density over the entire colony.
--   Surveyed the Manx shearwater colony, carrying out habitat and burrow occupancy surveys.
+-   Publish work carried out during my PhD in scientific journals.
+-   Manage and curate waterfowl tracking data sets, including upload to Movebank. - Write guide to help researchers with the processing and visualisation of animal tracking data in R.
 
 **2022: JNCC Consultancy, Review of avoidance rates for collision risk modelling of seabirds** (Analyst and report lead author, Jan-Feb 2022.)
 
@@ -38,33 +38,32 @@ Dissertation: Understating the genetic basis of colour polymorphism in the green
 -   Recalculation of avoidance rates in R and sensivity analysis to test the effect of various input parameters.
 -   Updated avoidance rates were included in a technical report and results explained to marine scientist and windfarm industry stakeholders.
 
-**2022/23: Research Officer, Wildfowl and Wetland Trust** (October 2022 -- April 2023) 
+**2021: MarPAMM funded project, Isle of Rum Manx Shearwater census** (Lead spatial analyst and fieldworker, May-June 2021)
 
-- Publish work carried out during my PhD in scientific journals.
-- Manage and curate waterfowl tracking data sets, including upload to Movebank. - Write guide to help researchers with the processing and visualisation of animal tracking data in R.
+-   Led spatial analysis for the final population estimate; manipulated Sentinel images and digital elevation models to build a predictive spatially explicit model that calculated burrow nesting bird density over the entire colony.
+-   Surveyed the Manx shearwater colony, carrying out habitat and burrow occupancy surveys.
 
 ## Research skills
 
-**Data Analysis** 
+**Data Analysis**
 
-- Curating large animal tracking database (\>250 million data points), including integration with Movebank. 
-- Download, manipulation and analysis of remote sensing data, e.g. MODIS, Sentinel, ECMFW and NCEP. 
-- Analysing animal movement data, e.g. Hidden Markov models, change point analysis, continuous time movement modelling and habitat selection analysis (RSFs & iSSFs). 
-- Statistical analysis including; generalized mixed effects models incorporating spatial/temporal autocorrelation and time to event/survival modelling. 
-- Machine learning analysis, e.g. classifying accelerometer data using random forests. 
-- Spatial data manipulation and analysis in QGIS and R (using sf package).
+-   Curating large animal tracking database (\>250 million data points), including integration with Movebank.
+-   Download, manipulation and analysis of remote sensing data, e.g. MODIS, Sentinel, ECMFW and NCEP.
+-   Analysing animal movement data, e.g. Hidden Markov models, change point analysis, continuous time movement modelling and habitat selection analysis (RSFs & iSSFs).
+-   Statistical analysis including; generalized mixed effects models incorporating spatial/temporal autocorrelation and time to event/survival modelling.
+-   Machine learning analysis, e.g. classifying accelerometer data using random forests.
+-   Spatial data manipulation and analysis in QGIS and R (using sf package).
 
-**Fieldwork** 
+**Fieldwork**
 
-- Assisted with the capture of large birds and the deployment of tracking devices on waterfowl and seabirds. 
-- Organised logistics for teams to catch birds and deploy biologging devices. 
-- Fieldwork in remote and challenging environment, e.g. surveys on Isle of Rum and Borneo.
+-   Assisted with the capture of large birds and the deployment of tracking devices on waterfowl and seabirds.
+-   Organised logistics for teams to catch birds and deploy biologging devices.
+-   Fieldwork in remote and challenging environment, e.g. surveys on Isle of Rum and Borneo.
 
-**Collaboration** 
+**Collaboration**
 
-- Carrying out research with multiple partners, e.g. Wildfowl and wetlands trust, JNCC, BTO & Nature Scot. 
-- Engagement with local stakeholders, particularly rural farmers on Islay, Scotland while researching contentious goose management cull
-
+-   Carrying out research with multiple partners, e.g. Wildfowl and wetlands trust, JNCC, BTO & Nature Scot.
+-   Engagement with local stakeholders, particularly rural farmers on Islay, Scotland while researching contentious goose management cull
 
 ## Scientific Communication
 
@@ -82,13 +81,15 @@ Dissertation: Understating the genetic basis of colour polymorphism in the green
 
 ## Conferences/Presentations
 
--  **Invited seminar talk:** Differing drivers of decline within a metapopulation has implications for future conservation. University of Lund. October 22. 
+-   **Invited seminar talk:** Understanding the decline of the Islay population of Greenland White-fronted Geese. *Scottish Goose Forum. Jan 2024.*
 
--  **Talk:** Remotely understanding population decline in a high-arctic nesting goose. University of Exeter, Centre for Ecology and Conservation symposium. March 2021. 
+-   **Invited seminar talk:** Differing drivers of decline within a metapopulation has implications for future species conservation. *University of Lund. October 2022.*
 
--  **Poster:** Differing demographic drivers of low reproductive success within a high artic migrant meta-population. BOU avian reproduction conference. April 2022. 
+-   **Talk:** Remotely understanding population decline in a high-arctic nesting goose. *University of Exeter, Centre for Ecology and Conservation symposium. March 2021.*
 
--   Attended online conferences: BOU birds and people, 2021 & International biologging symposium, 2021
+-   **Poster:** Differing demographic drivers of low reproductive success within a high artic migrant meta-population. *BOU avian reproduction conference. April 2022.*
+
+-   Attended online conferences: BOU Global flyways (2023), BOU birds and people (2021), International biologging symposium (2021)
 
 ## Teaching
 

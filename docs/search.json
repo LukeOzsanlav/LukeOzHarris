@@ -4,14 +4,14 @@
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "Analysis: Statistical Modelling | Spatial Data Analysis | Biologging Data\nSoftware: R | Shiny | QGIS | Git\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration"
+    "text": "Analysis: Statistical Modelling | Spatial Data Analysis | Biologging Data\nSoftware: R | Shiny | QGIS | Git | Google Earth Engine\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration"
   },
   {
     "objectID": "CV.html#skills-summary",
     "href": "CV.html#skills-summary",
     "title": "CV",
     "section": "",
-    "text": "Analysis: Statistical Modelling | Spatial Data Analysis | Biologging Data\nSoftware: R | Shiny | QGIS | Git\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration"
+    "text": "Analysis: Statistical Modelling | Spatial Data Analysis | Biologging Data\nSoftware: R | Shiny | QGIS | Git | Google Earth Engine\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration"
   },
   {
     "objectID": "CV.html#education",
@@ -25,7 +25,7 @@
     "href": "CV.html#employment",
     "title": "CV",
     "section": "Employment",
-    "text": "Employment\n2021: MarPAMM funded project, Isle of Rum Manx Shearwater census (Lead spatial analyst and fieldworker, May-June 2021)\n\nLed spatial analysis for the final population estimate; manipulated Sentinel images and digital elevation models to build a predictive spatially explicit model that calculated burrow nesting bird density over the entire colony.\nSurveyed the Manx shearwater colony, carrying out habitat and burrow occupancy surveys.\n\n2022: JNCC Consultancy, Review of avoidance rates for collision risk modelling of seabirds (Analyst and report lead author, Jan-Feb 2022.)\n\nReview of available literature that measured seabird collisions with turbines.\nRecalculation of avoidance rates in R and sensivity analysis to test the effect of various input parameters.\nUpdated avoidance rates were included in a technical report and results explained to marine scientist and windfarm industry stakeholders.\n\n2022/23: Research Officer, Wildfowl and Wetland Trust (October 2022 – April 2023)\n\nPublish work carried out during my PhD in scientific journals.\nManage and curate waterfowl tracking data sets, including upload to Movebank. - Write guide to help researchers with the processing and visualisation of animal tracking data in R."
+    "text": "Employment\n2022/23: Research Officer, Wildfowl and Wetland Trust (October 2022 – April 2023)\n\nPublish work carried out during my PhD in scientific journals.\nManage and curate waterfowl tracking data sets, including upload to Movebank. - Write guide to help researchers with the processing and visualisation of animal tracking data in R.\n\n2022: JNCC Consultancy, Review of avoidance rates for collision risk modelling of seabirds (Analyst and report lead author, Jan-Feb 2022.)\n\nReview of available literature that measured seabird collisions with turbines.\nRecalculation of avoidance rates in R and sensivity analysis to test the effect of various input parameters.\nUpdated avoidance rates were included in a technical report and results explained to marine scientist and windfarm industry stakeholders.\n\n2021: MarPAMM funded project, Isle of Rum Manx Shearwater census (Lead spatial analyst and fieldworker, May-June 2021)\n\nLed spatial analysis for the final population estimate; manipulated Sentinel images and digital elevation models to build a predictive spatially explicit model that calculated burrow nesting bird density over the entire colony.\nSurveyed the Manx shearwater colony, carrying out habitat and burrow occupancy surveys."
   },
   {
     "objectID": "CV.html#research-skills",
@@ -53,7 +53,7 @@
     "href": "CV.html#conferencespresentations",
     "title": "CV",
     "section": "Conferences/Presentations",
-    "text": "Conferences/Presentations\n\nInvited seminar talk: Differing drivers of decline within a metapopulation has implications for future conservation. University of Lund. October 22.\nTalk: Remotely understanding population decline in a high-arctic nesting goose. University of Exeter, Centre for Ecology and Conservation symposium. March 2021.\nPoster: Differing demographic drivers of low reproductive success within a high artic migrant meta-population. BOU avian reproduction conference. April 2022.\nAttended online conferences: BOU birds and people, 2021 & International biologging symposium, 2021"
+    "text": "Conferences/Presentations\n\nInvited seminar talk: Understanding the decline of the Islay population of Greenland White-fronted Geese. Scottish Goose Forum. Jan 2024.\nInvited seminar talk: Differing drivers of decline within a metapopulation has implications for future species conservation. University of Lund. October 2022.\nTalk: Remotely understanding population decline in a high-arctic nesting goose. University of Exeter, Centre for Ecology and Conservation symposium. March 2021.\nPoster: Differing demographic drivers of low reproductive success within a high artic migrant meta-population. BOU avian reproduction conference. April 2022.\nAttended online conferences: BOU Global flyways (2023), BOU birds and people (2021), International biologging symposium (2021)"
   },
   {
     "objectID": "CV.html#teaching",
