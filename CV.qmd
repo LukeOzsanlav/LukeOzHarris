@@ -11,7 +11,7 @@ github: https://github.com/LukeOzsanlav
 
 **Writing:** Scientific \| Technical Reports \| Public Communication
 
-**Interpersonal:** Stakeholder Engagement \| Collaboration
+**Interpersonal:** Stakeholder Engagement \| Collaboration \| Workshop Facilitation
 
 ## Education
 
@@ -35,13 +35,13 @@ Dissertation: Understating the genetic basis of colour polymorphism in the green
 **2022: JNCC Consultancy, Review of avoidance rates for collision risk modelling of seabirds** (Analyst and report lead author, Jan-Feb 2022.)
 
 -   Review of available literature that measured seabird collisions with turbines.
--   Recalculation of avoidance rates in R and sensivity analysis to test the effect of various input parameters.
--   Updated avoidance rates were included in a technical report and results explained to marine scientist and windfarm industry stakeholders.
+-   Recalculation of avoidance rates in R and sensitivity analysis to test the effect of various input parameters.
+-   Updated avoidance rates were included in a technical report and results explained to marine scientist and wind farm industry stakeholders.
 
 **2021: MarPAMM funded project, Isle of Rum Manx Shearwater census** (Lead spatial analyst and fieldworker, May-June 2021)
 
 -   Led spatial analysis for the final population estimate; manipulated Sentinel images and digital elevation models to build a predictive spatially explicit model that calculated burrow nesting bird density over the entire colony.
--   Surveyed the Manx shearwater colony, carrying out habitat and burrow occupancy surveys.
+-   Surveyed the Manx Shearwater colony, carrying out habitat and burrow occupancy surveys.
 
 ## Research skills
 

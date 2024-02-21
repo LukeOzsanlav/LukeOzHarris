@@ -4,14 +4,14 @@
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "Analysis: Statistical Modelling | Spatial Data Analysis | Biologging Data\nSoftware: R | Shiny | QGIS | Git | Google Earth Engine\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration"
+    "text": "Analysis: Statistical Modelling | Spatial Data Analysis | Biologging Data\nSoftware: R | Shiny | QGIS | Git | Google Earth Engine\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration | Workshop Facilitation"
   },
   {
     "objectID": "CV.html#skills-summary",
     "href": "CV.html#skills-summary",
     "title": "CV",
     "section": "",
-    "text": "Analysis: Statistical Modelling | Spatial Data Analysis | Biologging Data\nSoftware: R | Shiny | QGIS | Git | Google Earth Engine\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration"
+    "text": "Analysis: Statistical Modelling | Spatial Data Analysis | Biologging Data\nSoftware: R | Shiny | QGIS | Git | Google Earth Engine\nWriting: Scientific | Technical Reports | Public Communication\nInterpersonal: Stakeholder Engagement | Collaboration | Workshop Facilitation"
   },
   {
     "objectID": "CV.html#education",
@@ -25,7 +25,7 @@
     "href": "CV.html#employment",
     "title": "CV",
     "section": "Employment",
-    "text": "Employment\n2022/23: Research Officer, Wildfowl and Wetland Trust (October 2022 – April 2023)\n\nPublish work carried out during my PhD in scientific journals.\nManage and curate waterfowl tracking data sets, including upload to Movebank. - Write guide to help researchers with the processing and visualisation of animal tracking data in R.\n\n2022: JNCC Consultancy, Review of avoidance rates for collision risk modelling of seabirds (Analyst and report lead author, Jan-Feb 2022.)\n\nReview of available literature that measured seabird collisions with turbines.\nRecalculation of avoidance rates in R and sensivity analysis to test the effect of various input parameters.\nUpdated avoidance rates were included in a technical report and results explained to marine scientist and windfarm industry stakeholders.\n\n2021: MarPAMM funded project, Isle of Rum Manx Shearwater census (Lead spatial analyst and fieldworker, May-June 2021)\n\nLed spatial analysis for the final population estimate; manipulated Sentinel images and digital elevation models to build a predictive spatially explicit model that calculated burrow nesting bird density over the entire colony.\nSurveyed the Manx shearwater colony, carrying out habitat and burrow occupancy surveys."
+    "text": "Employment\n2022/23: Research Officer, Wildfowl and Wetland Trust (October 2022 – April 2023)\n\nPublish work carried out during my PhD in scientific journals.\nManage and curate waterfowl tracking data sets, including upload to Movebank. - Write guide to help researchers with the processing and visualisation of animal tracking data in R.\n\n2022: JNCC Consultancy, Review of avoidance rates for collision risk modelling of seabirds (Analyst and report lead author, Jan-Feb 2022.)\n\nReview of available literature that measured seabird collisions with turbines.\nRecalculation of avoidance rates in R and sensitivity analysis to test the effect of various input parameters.\nUpdated avoidance rates were included in a technical report and results explained to marine scientist and wind farm industry stakeholders.\n\n2021: MarPAMM funded project, Isle of Rum Manx Shearwater census (Lead spatial analyst and fieldworker, May-June 2021)\n\nLed spatial analysis for the final population estimate; manipulated Sentinel images and digital elevation models to build a predictive spatially explicit model that calculated burrow nesting bird density over the entire colony.\nSurveyed the Manx Shearwater colony, carrying out habitat and burrow occupancy surveys."
   },
   {
     "objectID": "CV.html#research-skills",
@@ -123,7 +123,7 @@
     "href": "Projects.html#isle-of-rum-manx-shearwater-census",
     "title": "Projects",
     "section": "Isle of Rum Manx Shearwater Census",
-    "text": "Isle of Rum Manx Shearwater Census\n\nContracted Work: MarPAMM 🌊🌊\nI was part of the fieldwork team that carried out occupancy surveys across the entire Manx Shearwater colony. I subsequently lead the spatial side of the analysis to extrapolate the number of occupied burrows across the entire colony from the limited number of survey plots. A link to this report can be found here.. The citation for this work is: Inger R, Sherley RB, Lennon J, Winn N, Scriven N, Ozsanlav-Harris L and Bearhop S. 2022. Surveys of Breeding Cliff-nesting Seabirds, Ground-nesting Seabirds and Burrow-nesting Seabirds in Western Scotland. Report to Agri-Food and Biosciences Institute and Marine Scotland Science as part of the Marine Protected Area Management and Monitoring (MarPAMM) project."
+    "text": "Isle of Rum Manx Shearwater Census\n\nContracted Work: MarPAMM 🌊⛰️\nI was part of the fieldwork team that carried out occupancy surveys across the entire Manx Shearwater colony. I subsequently lead the spatial side of the analysis to extrapolate the number of occupied burrows across the entire colony from the limited number of survey plots. A link to this report can be found here.. The citation for this work is: Inger R, Sherley RB, Lennon J, Winn N, Scriven N, Ozsanlav-Harris L and Bearhop S. 2022. Surveys of Breeding Cliff-nesting Seabirds, Ground-nesting Seabirds and Burrow-nesting Seabirds in Western Scotland. Report to Agri-Food and Biosciences Institute and Marine Scotland Science as part of the Marine Protected Area Management and Monitoring (MarPAMM) project."
   },
   {
     "objectID": "Projects.html#diagnosing-the-decline-of-greenland-white-fronted-geese",
