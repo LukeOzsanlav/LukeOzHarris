@@ -7,6 +7,10 @@ link-citations: false
 citations-hover: false
 ---
 
+## 2024
+
+[@langley2024] [Link to Code](https://github.com/ExMove/ExMove) <br/><br/>
+
 ## 2023
 
 [@ozsanlav-harris2023d] <br/><br/>
@@ -24,5 +28,3 @@ citations-hover: false
 ## Preprints
 
 ***preprint:*** [@ozsanlav-harris2023a] [Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) <br/><br/>
-
-***preprint:*** [@langley2023] [Link to Code](https://github.com/ExMove/ExMove) <br/><br/>
