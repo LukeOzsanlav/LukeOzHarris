@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ozsanlav-Harris, L., McIntosh, A. L. S., Griffin, L. R., Hilton, G. M., Cao, L., Shaw, J. M., & Bearhop, S. (2024). Contrasting effects of shooting disturbance on the movement and behavior of sympatric wildfowl species. Ecological Applications, e3032. https://doi.org/10.1002/eap.3032 Link to Code \nLangley, L. P., Lang, S. D. J., Ozsanlav-Harris, L., & Trevail, A. M. (2024). ExMove: An open-source toolkit for processing and exploring animal-tracking data in R. Journal of Animal Ecology. https://doi.org/10.1111/1365-2656.14111 Link to Code"
+  },
+  {
+    "objectID": "Publications.html#section",
+    "href": "Publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Ozsanlav-Harris, L., McIntosh, A. L. S., Griffin, L. R., Hilton, G. M., Cao, L., Shaw, J. M., & Bearhop, S. (2024). Contrasting effects of shooting disturbance on the movement and behavior of sympatric wildfowl species. Ecological Applications, e3032. https://doi.org/10.1002/eap.3032 Link to Code \nLangley, L. P., Lang, S. D. J., Ozsanlav-Harris, L., & Trevail, A. M. (2024). ExMove: An open-source toolkit for processing and exploring animal-tracking data in R. Journal of Animal Ecology. https://doi.org/10.1111/1365-2656.14111 Link to Code"
+  },
+  {
+    "objectID": "Publications.html#section-1",
+    "href": "Publications.html#section-1",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\nOzsanlav-Harris, L., Burgess, M. D., Hilton, G. M., & Bearhop, S. (2023). Changes in the spatial patterns of avian migrations: Evidence, mechanisms and causes. Diversity and Distributions, 29(12), 1527–1545. https://doi.org/10.1111/ddi.13785 \nOzsanlav-Harris, L., Hilton, G. M., Griffin, L. R., Walsh, A. J., Cao, L., Weegman, M. D., & Bearhop, S. (2023). Differing drivers of decline within a migratory metapopulation has implications for future conservation. Ecology and Evolution, 13(7). https://doi.org/10.1002/ece3.10281 Link to Code \nMcIntosh, A. L. S., Ozsanlav-Harris, L., Taggart, M. A., Shaw, J. M., Hilton, G. M., & Bearhop, S. (2023). Incidence of lead ingestion in managed goose populations and the efficacy of imposed restrictions on the use of lead shot. Ibis, 165(4), 1397–1413. https://doi.org/10.1111/ibi.13210 Link to Code \nTrissi, N., Troczka, B. J., Ozsanlav-Harris, L., Singh, K. S., Mallott, M., Aishwarya, V., O’Reilly, A., Bass, C., & Wilding, C. S. (2023). Differential regulation of the Tor gene homolog drives the red/green pigmentation phenotype in the aphid Myzus persicae. Insect Biochemistry and Molecular Biology, 153, 103896. https://doi.org/10.1016/j.ibmb.2022.103896"
+  },
+  {
+    "objectID": "Publications.html#section-2",
+    "href": "Publications.html#section-2",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\nOzsanlav-Harris, L., Griffin, L., Weegman, M. D., Cao, L., Hilton, G. M., & Bearhop, S. (2022). Wearable reproductive trackers: Quantifying a key life history. Animal Biotelemetry, 10(24), 1–15. https://doi.org/10.1186/s40317-022-00298-8 Link to Code"
+  },
+  {
+    "objectID": "Publications.html#preprints",
+    "href": "Publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\npreprint: Ozsanlav-Harris, L., Phillips, R., Bailey, J., Langley, L., Wilson, K., Inger, R., & Bearhop, S. (2023). Exploring the origins of vagrant yellow-browed warblers in western europe. http://dx.doi.org/10.22541/au.167832183.32508222/v1 Link to Code"
+  },
+  {
+    "objectID": "Maps.html",
+    "href": "Maps.html",
+    "title": "Maps",
+    "section": "",
+    "text": "I enjoy making maps as part of my research, here is a selection of my favorites from various papers.\n\nGPS Tracking Data Map of Four Species\n\n\n\n\n\n\n\nYellow-browed Warbler Vagrancy\n\n\n\n\n\n\n\nChiffchaff and Yellow-browed Warbler Range Map\n\n\n\n\n\n\n\nManx Shearwater Survey Data on the Isle of Rum\n\n\n\n\n\n\n\nMap of Islay Ramsar sites and Barnacle Goose roosts"
+  },
+  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "CV",
@@ -70,13 +112,6 @@
     "text": "Hi, I’m Luke\nI am an ecologist that is broadly interested in ornithology, animal movement and applied ecological research.\nCurrently I am a conservation scientist at the RSPB. I research the drivers of lowland breeding wader populations in order to predict which future conservation scenarios would maximise breeding populations.\nI enjoy looking for birds in my local area and further afield. You can see my latest pictures and checklists on my eBird profile"
   },
   {
-    "objectID": "Maps.html",
-    "href": "Maps.html",
-    "title": "Maps",
-    "section": "",
-    "text": "I enjoy making maps as part of my research, here is a selection of my favorites from various papers.\n\nGPS Tracking Data Map of Four Species\n\n\n\n\n\n\n\nYellow-browed Warbler Vagrancy\n\n\n\n\n\n\n\nChiffchaff and Yellow-browed Warbler Range Map\n\n\n\n\n\n\n\nManx Shearwater Survey Data on the Isle of Rum\n\n\n\n\n\n\n\nMap of Islay Ramsar sites and Barnacle Goose roosts"
-  },
-  {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
@@ -131,40 +166,5 @@
     "title": "Projects",
     "section": "Diagnosing the decline of Greenland-White-fronted Geese",
     "text": "Diagnosing the decline of Greenland-White-fronted Geese\n\nPhD Research: Univeristy of Exeter 🦆 📉\nI carried out a PhD at the University of Exeter to understand the decline of a migratory waterfowl species, the Greenland White-fronted Goose Anser albifrons flavirostris. I investigated different factors that could be contributing to population decline. This included lead poisoning and shooting disturbance on Islay, Scotland from shooting of the Barnacle Goose population on the island. I also investigated how changes to the climate in the Western Greenland breeding grounds could be causing low breeding success across the population. To fully investigate this we deployed biologging devices across the wintering range and remotely examined breeding using remote sensing data and biologging data to remotely classify breeding events.\n\n\n\nGreenland White-fronted Goose"
-  },
-  {
-    "objectID": "Publications.html",
-    "href": "Publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Langley, L. P., Lang, S. D. J., Ozsanlav-Harris, L., & Trevail, A. M. (2024). ExMove: An open-source toolkit for processing and exploring animal-tracking data in R. Journal of Animal Ecology. https://doi.org/10.1111/1365-2656.14111 Link to Code"
-  },
-  {
-    "objectID": "Publications.html#section",
-    "href": "Publications.html#section",
-    "title": "Publications",
-    "section": "",
-    "text": "Langley, L. P., Lang, S. D. J., Ozsanlav-Harris, L., & Trevail, A. M. (2024). ExMove: An open-source toolkit for processing and exploring animal-tracking data in R. Journal of Animal Ecology. https://doi.org/10.1111/1365-2656.14111 Link to Code"
-  },
-  {
-    "objectID": "Publications.html#section-1",
-    "href": "Publications.html#section-1",
-    "title": "Publications",
-    "section": "2023",
-    "text": "2023\nOzsanlav-Harris, L., Burgess, M. D., Hilton, G. M., & Bearhop, S. (2023). Changes in the spatial patterns of avian migrations: Evidence, mechanisms and causes. Diversity and Distributions, 29(12), 1527–1545. https://doi.org/10.1111/ddi.13785 \nOzsanlav-Harris, L., Hilton, G. M., Griffin, L. R., Walsh, A. J., Cao, L., Weegman, M. D., & Bearhop, S. (2023). Differing drivers of decline within a migratory metapopulation has implications for future conservation. Ecology and Evolution, 13(7). https://doi.org/10.1002/ece3.10281 Link to Code \nMcIntosh, A. L. S., Ozsanlav-Harris, L., Taggart, M. A., Shaw, J. M., Hilton, G. M., & Bearhop, S. (2023). Incidence of lead ingestion in managed goose populations and the efficacy of imposed restrictions on the use of lead shot. Ibis, 165(4), 1397–1413. https://doi.org/10.1111/ibi.13210 Link to Code \nTrissi, N., Troczka, B. J., Ozsanlav-Harris, L., Singh, K. S., Mallott, M., Aishwarya, V., O’Reilly, A., Bass, C., & Wilding, C. S. (2023). Differential regulation of the Tor gene homolog drives the red/green pigmentation phenotype in the aphid Myzus persicae. Insect Biochemistry and Molecular Biology, 153, 103896. https://doi.org/10.1016/j.ibmb.2022.103896"
-  },
-  {
-    "objectID": "Publications.html#section-2",
-    "href": "Publications.html#section-2",
-    "title": "Publications",
-    "section": "2022",
-    "text": "2022\nOzsanlav-Harris, L., Griffin, L., Weegman, M. D., Cao, L., Hilton, G. M., & Bearhop, S. (2022). Wearable reproductive trackers: Quantifying a key life history. Animal Biotelemetry, 10(24), 1–15. https://doi.org/10.1186/s40317-022-00298-8 Link to Code"
-  },
-  {
-    "objectID": "Publications.html#preprints",
-    "href": "Publications.html#preprints",
-    "title": "Publications",
-    "section": "Preprints",
-    "text": "Preprints\npreprint: Ozsanlav-Harris, L., Phillips, R., Bailey, J., Langley, L., Wilson, K., Inger, R., & Bearhop, S. (2023). Exploring the origins of vagrant yellow-browed warblers in western europe. http://dx.doi.org/10.22541/au.167832183.32508222/v1 Link to Code"
   }
 ]

@@ -9,6 +9,8 @@ citations-hover: false
 
 ## 2024
 
+[@ozsanlav-harris2024] [Link to Code](https://github.com/LukeOzsanlav/Islay_ShootingDisturbance) <br/><br/>
+
 [@langley2024] [Link to Code](https://github.com/ExMove/ExMove) <br/><br/>
 
 ## 2023
