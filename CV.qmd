@@ -27,12 +27,15 @@ Dissertation: Understating the genetic basis of colour polymorphism in the green
 
 ## Employment
 
+**2025: Flyway Science Officer** (Jan 2025 -- Now)
+-   My work focuses on  priority areas such as addressing illegal and unsustainable taking and trade of birds, conservation of coastal and inland waterbirds, conservation of migrant land birds, and ensuring ecological networks of sites.
+
 **2023/24: Conservation Scientist, RSPB** (October 2023 -- Nov 2024)
 
--   Carried out research to determine the most cost effective conservation strategies to conserve lowland breeding waders in lowland England. 
+-   Carried out research to determine the most cost effective conservation strategies to conserve lowland breeding waders in lowland England.
 -   This involved running regional stakeholder workshops to develop realistic region-specific strategies.
 -   Created random forest models to predict breeding population responses to habitat improvements.
--   Created spatially-explicit conservation scenarios that predicted change in population sizes and the overall investment required to carry out the strategy. 
+-   Created spatially-explicit conservation scenarios that predicted change in population sizes and the overall investment required to carry out the strategy.
 
 **2022/23: Research Officer, Wildfowl and Wetland Trust** (October 2022 -- April 2023)
 
@@ -49,6 +52,7 @@ Dissertation: Understating the genetic basis of colour polymorphism in the green
 
 -   Led spatial analysis for the final population estimate; manipulated Sentinel images and digital elevation models to build a predictive spatially explicit model that calculated burrow nesting bird density over the entire colony.
 -   Surveyed the Manx Shearwater colony, carrying out habitat and burrow occupancy surveys.
+
 
 ## Research skills
 

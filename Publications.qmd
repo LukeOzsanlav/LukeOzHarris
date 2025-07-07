@@ -30,3 +30,11 @@ citations-hover: false
 ## Preprints
 
 ***preprint:*** [@ozsanlav-harris2023a] [Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) <br/><br/>
+
+## Reports:
+
+Barabas L, Jones V, Willem Van den Bossche, Lee S, **Ozsanlav-Harris L**, Vansynghel J and Stefan Ferger S, de la Bodega D. (2025). Progress assessment on the eradication of illegal killing, taking and trade of wild birds in the Mediterranean and Europe. [Link to report](https://datazone.birdlife.org/publications/the-killing-3)
+
+**Ozsanlav-Harris L**, Inger R & Sherley R. (2023). Review of data used to calculate avoidance rates for collision risk modelling of seabirds. JNCC Report 732, JNCC, Peterborough, ISSN 0963-8091. [Link to report](https://hub.jncc.gov.uk/assets/de5903fe-81c5-4a37-a5bc-387cf704924d)
+
+Inger R, Sherley RB, Lennon J, Winn N, Scriven N, **Ozsanlav-Harris L** and Bearhop S. (2022). Surveys of Breeding Cliff-nesting Seabirds, Ground-nesting Seabirds and Burrow-nesting Seabirds in Western Scotland. Report to Agri-Food and Biosciences Institute and Marine Scotland Science as part of the Marine Protected Area Management and Monitoring (MarPAMM) project. [Link to report](https://www.mpa-management.eu/wp-content/uploads/2023/06/Surveys-of-Breeding-Cliff-nesting-Seabirds-Ground-nesting-Seabirds-and-Burrow-nesting-Seabirds-in-Western-Scotland.pdf)
