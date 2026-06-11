@@ -29,7 +29,9 @@ citations-hover: false
 
 ## Preprints
 
-***preprint:*** [@ozsanlav-harris2023a] [Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) <br/><br/>
+[@wilde2026]<br/><br/>
+
+[@ozsanlav-harris2023a] [Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) <br/><br/>
 
 ## Reports:
 

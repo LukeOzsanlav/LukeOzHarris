@@ -1,5 +1,10 @@
 ---
 title: "Projects"
+bibliography: references.bib
+csl: apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
 ---
 
 ## Links to my research 🔗
@@ -22,11 +27,23 @@ Wading birds breeding on lowland wet grassland have declined in recent years, es
 
 I investigated the movement and wider dispersal of Common Pheasants *Phasianus colchicus* to help retain birds near shoots and to limit dispersal into protected areas. I used GPS tracking data and radio tracking data to build an individual-based model that simulate the movement of released pheasant from any point in the UK. This allowed assessment of the number of pheasants that would occur in protected area on a temporally dynamic scale.
 
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Publications
+
+[@wilde2026]
+:::
+
 ## Analysing Animal Movement data
 
 #### ExMove: Univeristy of Exeter 🐾 📊
 
 Alongside other postdoctoral researchers we created a toolkit for processing biologging data from tag downloads to archiving in online data base. The code is open-access and serves as a self-teaching guide for both new and more advanced users. The code is available from a GitHub repository [here](https://github.com/ExMove/ExMove). I also built a shiny app that allows users to explore their data using a user friendly GUI, this can be accessed [here](https://lukeozsanlav.shinyapps.io/exmove_explorer/).
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Publications
+
+[@langley2024]
+:::
 
 ![](images/hex_sticker_RFB.png){fig-align="center" width="165"}
 
@@ -49,5 +66,17 @@ I was part of the fieldwork team that carried out occupancy surveys across the e
 #### PhD Research: Univeristy of Exeter 🦆 📉
 
 I carried out a PhD at the University of Exeter to understand the decline of a migratory waterfowl species, the Greenland White-fronted Goose *Anser albifrons flavirostris*. I investigated different factors that could be contributing to population decline. This included lead poisoning and shooting disturbance on Islay, Scotland from shooting of the Barnacle Goose population on the island. I also investigated how changes to the climate in the Western Greenland breeding grounds could be causing low breeding success across the population. To fully investigate this we deployed biologging devices across the wintering range and remotely examined breeding using remote sensing data and biologging data to remotely classify breeding events.
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Publications
+
+[@ozsanlav-harris2024]
+
+[@mcintosh2023]
+
+[@ozsanlav-harris2023]
+
+[@ozsanlav-harris2022]
+:::
 
 ![Greenland White-fronted Goose](images/GWF_image.png){fig-align="center" width="221"}

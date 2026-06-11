@@ -21,13 +21,13 @@ website:
         href: https://twitter.com/Luke_ozharris
       - icon: envelope
         aria-label: email
-        href: "mailto:lo288@exeter.ac.uk"
+        href: "mailto:l.ozsanlav-harris2@exeter.ac.uk"
         
         
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: true
 
