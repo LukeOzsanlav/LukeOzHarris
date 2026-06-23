@@ -35,6 +35,8 @@ citations-hover: false
 
 ## Reports:
 
+Contributed to: Global Action Plan for the Conservation of the Steppe Eagle (Aquila nipalensis) (2026-2035) [Link to report](https://www.cms.int/document/global-action-plan-conservation-steppe-eagle-aquila-nipalensis-2026-2035) 
+
 Barabas L, Jones V, Willem Van den Bossche, Lee S, **Ozsanlav-Harris L**, Vansynghel J and Stefan Ferger S, de la Bodega D. (2025). Progress assessment on the eradication of illegal killing, taking and trade of wild birds in the Mediterranean and Europe. [Link to report](https://datazone.birdlife.org/publications/the-killing-3)
 
 **Ozsanlav-Harris L**, Inger R & Sherley R. (2023). Review of data used to calculate avoidance rates for collision risk modelling of seabirds. JNCC Report 732, JNCC, Peterborough, ISSN 0963-8091. [Link to report](https://hub.jncc.gov.uk/assets/de5903fe-81c5-4a37-a5bc-387cf704924d)
