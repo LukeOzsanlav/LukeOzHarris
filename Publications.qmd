@@ -7,9 +7,13 @@ link-citations: false
 citations-hover: false
 ---
 
+Click [here](https://scholar.google.co.uk/citations?user=9VyBol4AAAAJ&hl=en) for my Google Scholar profile
+
 ## 2026
 
 [@marra2026]
+
+[@wilde2026a]
 
 ## 2024
 
@@ -32,8 +36,6 @@ citations-hover: false
 [@ozsanlav-harris2022] [Link to Code](https://github.com/LukeOzsanlav/AnimalBioMethods) <br/><br/>
 
 ## Preprints
-
-[@wilde2026]<br/><br/>
 
 [@ozsanlav-harris2023a] [Link to Code](https://github.com/LukeOzsanlav/YBW_Vagrancy) <br/><br/>
 

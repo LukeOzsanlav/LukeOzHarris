@@ -7,17 +7,16 @@ link-citations: false
 citations-hover: false
 ---
 
-## Links to my research 🔗
 
-Click [here](https://scholar.google.co.uk/citations?user=9VyBol4AAAAJ&hl=en) for my Google Scholar profile
+## Application of stable isotopes
 
-## Application of Stable Istopes in Ecology
+#### University of Exeter
 
-### Univeristy of Exeter
-I work on the application of Stable Isotopes in ecology. mainly to understand the diet, niches and origins of birds. My recent work has involved understanding diet in Kirtland's Warbler and how diet contribution alter body condition as well as using hydrogen isotopes to understand the origins of migratory *Phylloscopus* warblers in the UK.  
+I work on the application of Stable Isotopes in ecology. mainly to understand the diet, niches and origins of birds. My recent work has involved understanding diet in Kirtland's Warbler and how diet contribution alter body condition as well as using hydrogen isotopes to understand the origins of migratory *Phylloscopus* warblers in the UK.
 
+<br/><br/>
 
-## Future conservation scenarios for lowland breeding waders in England
+## Conservation scenarios for lowland breeding waders
 
 #### Conservation Scientist: RSPB 🥚🐣
 
@@ -25,7 +24,9 @@ Wading birds breeding on lowland wet grassland have declined in recent years, es
 
 ![](images/lolandwaderscenarios%20logo.png){fig-align="center" width="240"}
 
-## Released Gambird Dispseral in the UK
+<br/><br/>
+
+## Released gamebird dispersal
 
 #### Postdoctoral Research: University of Exeter 🦚 🔫
 
@@ -37,9 +38,11 @@ I investigated the movement and wider dispersal of Common Pheasants *Phasianus c
 [@wilde2026]
 :::
 
-## Analysing Animal Movement data
+<br/><br/>
 
-#### ExMove: Univeristy of Exeter 🐾 📊
+## Analysing animal movement data
+
+#### ExMove: University of Exeter 🐾 📊
 
 Alongside other postdoctoral researchers we created a toolkit for processing biologging data from tag downloads to archiving in online data base. The code is open-access and serves as a self-teaching guide for both new and more advanced users. The code is available from a GitHub repository [here](https://github.com/ExMove/ExMove). I also built a shiny app that allows users to explore their data using a user friendly GUI, this can be accessed [here](https://lukeozsanlav.shinyapps.io/exmove_explorer/).
 
@@ -51,7 +54,9 @@ Alongside other postdoctoral researchers we created a toolkit for processing bio
 
 ![](images/hex_sticker_RFB.png){fig-align="center" width="165"}
 
-## Collision Risk Modelling of Seabirds with Offshore Wind Turbines
+<br/><br/>
+
+## Seabird collision risk with offshore wind
 
 #### Contracted Work: JNCC 🌊🌊
 
@@ -61,28 +66,29 @@ I lead a review of the avoidance rate parameter used in the collision risk model
 ##### Report
 
 Ozsanlav-Harris, L., Inger, R. & Sherley, R. 2023. Review of data used to calculate avoidance rates for collision risk modelling of seabirds. JNCC Report 732, JNCC, Peterborough, ISSN 0963-8091. https://hub.jncc.gov.uk/assets/de5903fe-81c5-4a37-a5bc-387cf704924d
-
 :::
 
-
+<br/><br/>
 
 ## Isle of Rum Manx Shearwater Census
 
 #### Contracted Work: MarPAMM 🌊⛰️
 
-I was part of the fieldwork team that carried out occupancy surveys across the entire Manx Shearwater colony. I subsequently lead the spatial side of the analysis to extrapolate the number of occupied burrows across the entire colony from the limited number of survey plots. A link to this report can be found [here.](https://www.mpa-management.eu/wp-content/uploads/2023/06/Surveys-of-Breeding-Cliff-nesting-Seabirds-Ground-nesting-Seabirds-and-Burrow-nesting-Seabirds-in-Western-Scotland.pdf) 
+I was part of the fieldwork team that carried out occupancy surveys across the entire Manx Shearwater colony. I subsequently lead the spatial side of the analysis to extrapolate the number of occupied burrows across the entire colony from the limited number of survey plots. A link to this report can be found [here.](https://www.mpa-management.eu/wp-content/uploads/2023/06/Surveys-of-Breeding-Cliff-nesting-Seabirds-Ground-nesting-Seabirds-and-Burrow-nesting-Seabirds-in-Western-Scotland.pdf)
 
 ::: {.callout-tip collapse="true" appearance="minimal"}
 ##### Report
 
 Inger R, Sherley RB, Lennon J, Winn N, Scriven N, Ozsanlav-Harris L and Bearhop S. 2022. Surveys of Breeding Cliff-nesting Seabirds, Ground-nesting Seabirds and Burrow-nesting Seabirds in Western Scotland. Report to Agri-Food and Biosciences Institute and Marine Scotland Science as part of the Marine Protected Area Management and Monitoring (MarPAMM) project.
-
 :::
+
+
+<br/><br/>
 
 
 ## Diagnosing the decline of Greenland-White-fronted Geese
 
-#### PhD Research: Univeristy of Exeter 🦆 📉
+#### PhD: University of Exeter 🦆 📉
 
 I carried out a PhD at the University of Exeter to understand the decline of a migratory waterfowl species, the Greenland White-fronted Goose *Anser albifrons flavirostris*. I investigated different factors that could be contributing to population decline. This included lead poisoning and shooting disturbance on Islay, Scotland from shooting of the Barnacle Goose population on the island. I also investigated how changes to the climate in the Western Greenland breeding grounds could be causing low breeding success across the population. To fully investigate this we deployed biologging devices across the wintering range and remotely examined breeding using remote sensing data and biologging data to remotely classify breeding events.
 
